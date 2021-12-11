@@ -1,4 +1,3 @@
-# File with heading
 - 👋 Hi, I’m @Ahmed
 - 👀 I’m interested in learning new stuff 
 - 🌱 I’m currently learning python and C#

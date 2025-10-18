@@ -15,8 +15,8 @@ I'm passionate about learning new technologies and continuously expanding my ski
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.microchip.com/"><img src="Esp32_logo.png" alt="ESP32" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.microchip.com/"><img src="Esp8266.png" alt="ESP8266" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.espressif.com/en/products/socs/"><img src="Esp32_logo.png" alt="ESP32" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.espressif.com/en/products/socs/"><img src="Esp8266.png" alt="ESP8266" width="42" height="42" /></a>
   <a target="_blank" href="https://www.microchip.com/"><img src="Microchip-Logo.svg" alt="Microchip PIC" width="42" height="42" /></a>
   <a target="_blank" href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" /></a>
 

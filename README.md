@@ -15,10 +15,11 @@ I'm passionate about learning new technologies and continuously expanding my ski
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/microchip/microchip-icon.svg"><img src="https://www.vectorlogo.zone/logos/microchip/microchip-icon.svg" alt="Microchip PIC" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/esp8266/esp8266-icon.svg"><img src="https://www.vectorlogo.zone/logos/esp8266/esp8266-icon.svg" alt="ESP8266" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg"><img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" alt="ESP32" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/flaskio/flaskio-icon.svg"><img src="https://www.vectorlogo.zone/logos/flaskio/flaskio-icon.svg" alt="Flask" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.microchip.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microchip/microchip-original.svg" alt="Microchip PIC" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.espressif.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/esp8266/esp8266-original.svg" alt="ESP8266" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.espressif.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/esp32/esp32-original.svg" alt="ESP32" width="42" height="42" /></a>
+  <a target="_blank" href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" /></a>
+
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" /></a>
 </p>
@@ -82,7 +83,6 @@ Detect fabric defects using YOLOv8 on Raspberry Pi 4 in real-time.
 
 <h2>⚡️ Where to Find Me</h2>
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/ahmed-khaled-"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
   <a target="_blank" href="https://github.com/Ahmed1893"><img src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="github" /></a>
 </p>
 

@@ -108,6 +108,6 @@ Detect fabric defects using YOLOv8 on Raspberry Pi 4 in real-time.
 <p>
   <img src="https://img.shields.io/badge/Embedded-IoT-green?style=for-the-badge&logo=raspberry-pi" alt="IoT Badge" />
   <img src="https://img.shields.io/badge/ESP32-ESP8266-blue?style=for-the-badge&logo=esp32" alt="ESP Badge" />
-  <img src="https://img.shields.io/badge/Full-Stack-Python-red?style=for-the-badge&logo=python" alt="FullStack Badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Python-red?style=for-the-badge&logo=python&logoColor=white" alt="FullStack Badge" />
   <img src="https://img.shields.io/badge/PCB-Design-orange?style=for-the-badge&logo=circuit" alt="PCB Badge" />
 </p>

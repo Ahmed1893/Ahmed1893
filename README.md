@@ -10,23 +10,24 @@ I'm passionate about learning new technologies and continuously expanding my ski
 <h2>🚀 Languages and Tools I Use</h2>
 <!-- Row 1: Embedded, IoT, and Languages -->
 <p align="left">
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" /></a>&nbsp;
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /></a>&nbsp;
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" /></a>&nbsp;
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /></a>&nbsp;
-  <a href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="30" height="30" /></a>&nbsp;
-  <a href="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="30" height="30" /></a>&nbsp;
-  <a href="https://www.espressif.com/en/products/socs/"><img src="Esp32_logo.png" alt="ESP32" width="30" height="30" /></a>&nbsp;
-  <a href="https://www.espressif.com/en/products/socs/"><img src="Esp8266.png" alt="ESP8266" width="30" height="30" /></a>&nbsp;
-  <a href="https://www.microchip.com/"><img src="Microchip-Logo.svg" alt="Microchip PIC" width="30" height="30" /></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="30" height="30" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="30" height="30" />&nbsp;
+  <img src="https://cdn.simpleicons.org/espressif/000000" alt="ESP32" width="30" height="30" />&nbsp;
+  <img src="https://cdn.simpleicons.org/espressif/000000" alt="ESP8266" width="30" height="30" />&nbsp;
+  <img src="https://cdn.simpleicons.org/microchip/000000" alt="Microchip PIC" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" />
 </p>
 
 <!-- Row 2: Web Development -->
 <p align="left">
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" /></a>&nbsp;
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" />
 </p>
+
 ---
 
 <h2>🌱 About Me</h2>
@@ -82,7 +83,7 @@ Machine learning project to predict heart disease from patient data.
 <p align="center">
   <a href="https://github.com/Ahmed1893/fabric_defect_detection_yolov8_RasspberryPI_4">
     <img src="https://github.com/Ahmed1893/fabric_defect_detection_yolov8_RasspberryPI_4/raw/main/demo.gif" alt="Fabric Defect Detection" width="600"/>
-  </a>
+  
 </p>
 Detect fabric defects using YOLOv8 on Raspberry Pi 4 in real-time.
 
@@ -114,7 +115,7 @@ Detect fabric defects using YOLOv8 on Raspberry Pi 4 in real-time.
 <h2>✨ Fun Animated Badges</h2>
 <p>
   <img src="https://img.shields.io/badge/Embedded-IoT-green?style=for-the-badge&logo=raspberry-pi" alt="IoT Badge" />
-  <img src="https://img.shields.io/badge/ESP32-ESP8266-blue?style=for-the-badge&logo=esp32" alt="ESP Badge" />
+  <img src="https://img.shields.io/badge/ESP32-ESP8266-blue?style=for-the-badge&logo=espressif" alt="ESP Badge" />
   <img src="https://img.shields.io/badge/Full%20Stack-Python-red?style=for-the-badge&logo=python&logoColor=white" alt="FullStack Badge" />
   <img src="https://img.shields.io/badge/PCB-Design-orange?style=for-the-badge&logo=circuit" alt="PCB Badge" />
 </p>

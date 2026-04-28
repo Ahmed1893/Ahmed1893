@@ -18,9 +18,9 @@ I'm passionate about learning new technologies and continuously expanding my ski
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="30" height="30" />&nbsp;
   <img src="https://cdn.simpleicons.org/espressif/000000" alt="ESP32" width="30" height="30" />&nbsp;
   <img src="https://cdn.simpleicons.org/espressif/000000" alt="ESP8266" width="30" height="30" />&nbsp;
-  <img src="Microchip-Logo.svg" alt="Microchip PIC" width="30" height="30" />&nbsp;
+  <img src="Microchip-Logo_1.png" alt="Microchip PIC" width="50" height="30" align="bottom" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" />
-  
+
 </p>
 
 <!-- Row 2: Web Development -->

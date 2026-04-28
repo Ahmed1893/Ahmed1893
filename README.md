@@ -9,7 +9,7 @@ I'm passionate about learning new technologies and continuously expanding my ski
 
 <h2>🚀 Languages and Tools I Use</h2>
 <!-- Row 1: Embedded, IoT, and Languages -->
-<p align="left">
+<p align="left" style="flex-direction: row;display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />&nbsp;
@@ -24,7 +24,7 @@ I'm passionate about learning new technologies and continuously expanding my ski
 </p>
 
 <!-- Row 2: Web Development -->
-<p align="left">
+<p align="left" style="flex-direction: row;display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" />
 </p>

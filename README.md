@@ -9,14 +9,23 @@ I'm passionate about learning new technologies and continuously expanding my ski
 
 <h2>🚀 Languages and Tools I Use</h2>
 <!-- Row 1: Embedded, IoT, and Languages -->
-<h2>🚀 Languages and Tools I Use</h2>
-
 <p align="left">
-  <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" alt="C" width="42" height="42" /></a> <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" alt="C++" width="42" height="42" /></a> <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" alt="Python" width="42" height="42" /></a> <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" alt="JavaScript" width="42" height="42" /></a> <a href="https://vectorlogo.zone"><img src="https://vectorlogo.zone" alt="NodeJS" width="42" height="42" /></a> <a href="https://vectorlogo.zone"><img src="https://vectorlogo.zone" alt="Raspberry Pi" width="42" height="42" /></a> <a href="https://espressif.com"><img src="Esp32_logo.png" alt="ESP32" width="42" height="42" /></a> <a href="https://espressif.com"><img src="Esp8266.png" alt="ESP8266" width="42" height="42" /></a> <a href="https://microchip.com"><img src="Microchip-Logo.svg" alt="Microchip PIC" width="42" height="42" /></a> <a href="https://palletsprojects.com"><img src="https://jsdelivr.net" alt="Flask" width="42" height="42" /></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" /></a>&nbsp;
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /></a>&nbsp;
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" /></a>&nbsp;
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /></a>&nbsp;
+  <a href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="30" height="30" /></a>&nbsp;
+  <a href="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="30" height="30" /></a>&nbsp;
+  <a href="https://www.espressif.com/en/products/socs/"><img src="Esp32_logo.png" alt="ESP32" width="30" height="30" /></a>&nbsp;
+  <a href="https://www.espressif.com/en/products/socs/"><img src="Esp8266.png" alt="ESP8266" width="30" height="30" /></a>&nbsp;
+  <a href="https://www.microchip.com/"><img src="Microchip-Logo.svg" alt="Microchip PIC" width="30" height="30" /></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" /></a>
 </p>
 
+<!-- Row 2: Web Development -->
 <p align="left">
-  <a target="_blank" href="https://githubusercontent.com"><img src="https://githubusercontent.com" alt="HTML5" width="42" height="42" /></a> <a target="_blank" href="https://githubusercontent.com"><img src="https://githubusercontent.com" alt="CSS3" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" /></a>&nbsp;
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" /></a>
 </p>
 ---
 
